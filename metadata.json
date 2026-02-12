@@ -1,0 +1,9 @@
+{
+  "name": "ScreenCast Web Pro",
+  "description": "A professional web-based screen recording application with audio mixing capabilities. Captures screen, system audio, and microphone simultaneously.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
